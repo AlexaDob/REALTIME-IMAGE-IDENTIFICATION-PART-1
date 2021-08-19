@@ -1,0 +1,34 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(214, 214, 214);
+    background-color: rgb(93, 164, 223);
+    padding: 20px;
+    color: black;
+}
+
+.heading_div{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px rgb(214, 214, 214);
+}
+
+.heading_div2{
+    margin: 10px;
+    font-size: 18px;
+}
+
+.heading1{
+    font-size: 23px;
+    width: fit-content;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#camera{
+    border: white;
+}
